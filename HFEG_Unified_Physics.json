@@ -1,0 +1,17 @@
+{
+    "pipeline_version": "HFEG-LT v4.0",
+    "phase_1_resonance": {
+        "cyclotron_resonance_khz": 50.25012506253126,
+        "max_lense_thirring_amplitude": 2.377524751087553e-14,
+        "amplification_Q_factor": 1116.1111111112068,
+        "gyroscope_radius_m": 0.0003
+    },
+    "phase_2_exotic_energy": {
+        "original_spherical_requirement_J": -4.54e+45,
+        "optimal_wall_thickness_m": 0.26137897405773447,
+        "optimized_toroidal_requirement_J": -8608190322475754.0,
+        "dynamical_casimir_output_J": -66528082598.64338,
+        "smr_4200_available_power_W": 4610000.0,
+        "deficit_reduction_factor": 5.27404695984263e+29
+    }
+}
